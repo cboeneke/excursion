@@ -1,41 +1,43 @@
 * {
-  font-family: Helvetica, sans-serif;
+  background-color: black;
+  text-align: center;
+  font-family: Verdana, sans-serif;
 }
 
-h1{
-font-family: Helvetica;
-font-size: 100px;
-font-weight: bold;
-color: khaki;
-text-align: center;
-background-image: url(../images/pattern.jpeg);
-
-}
-
-h2.brushes{
-  font-family: Helvetica;
-  font-size: 32px;
-  font-weight: bold;
+.head{
+  font-family: Verdana;
+  font-size: 50px;
+  font-weight: normal;
   color: white;
-  background-color: mediumspringgreen;
+
+
 }
 
-h2.frames{
-  font-family: Helvetica;
-  font-size: 32px;
-  font-weight: bold;
+.personal{
+  font-family: Verdana;
+  font-size: 42px;
+  font-weight: 300;
   color: white;
-  background-color: lightcoral;
+
+
 }
 
-h2.paint{
-  font-family: Helvetica;
-  font-size: 32px;
-  font-weight: bold;
-  color: white;
-  background-color: skyblue;
+.places{
+  font-family: Verdana;
+  font-size: 21px;
+
+  color: gray;
+
+
 }
-.price{
-  color: Blue;
-    font-weight: bold;
+
+.copywrite{
+  text-align: right;
+  color: gray;
+}
+
+.download {
+  font-size: 16px;
+  color: aquamarine;
+
 }
